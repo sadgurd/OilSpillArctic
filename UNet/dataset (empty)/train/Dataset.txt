@@ -1,0 +1,7 @@
+The dataset was provided by researchers in [1] and [2], and is not permitted shared by a third party. For access, please visit the following link:
+
+https://mklab.iti.gr/results/oil-spill-detection-dataset/
+
+[1] Krestenitis, M., Orfanidis, G., Ioannidis, K., Avgerinakis, K., Vrochidis, S., & Kompatsiaris, I. (2019). Oil spill identification from satellite images using deep neural networks. Remote Sensing, 11(15), 1762.
+
+[2] Krestenitis, M., Orfanidis, G., Ioannidis, K., Avgerinakis, K., Vrochidis, S., & Kompatsiaris, I. (2019, January). Early Identification of Oil Spills in Satellite Images Using Deep CNNs. In International Conference on Multimedia Modeling (pp. 424-435). Springer, Cham.
